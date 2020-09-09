@@ -1,0 +1,39 @@
+HTTrack3.49-2+htsswf+htsjava launched on Mon, 24 Aug 2020 18:14:13 at https://demo.gridgum.com/templates/Travel-agency/index.html +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://demo.gridgum.com/templates/Travel-agency/index.html -O1 "F:\Project\LIPDUB" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+18:15:44	Warning: 	Link https://demo.gridgum.com/templates/Travel-agency/about.html not scanned (follow robots meta tag)
+18:15:44	Warning: 	Link https://demo.gridgum.com/templates/Travel-agency/gallery.html not scanned (follow robots meta tag)
+18:15:44	Warning: 	Link https://demo.gridgum.com/templates/Travel-agency/flights.html not scanned (follow robots meta tag)
+18:15:44	Warning: 	Link https://demo.gridgum.com/templates/Travel-agency/search-flights.html not scanned (follow robots meta tag)
+18:15:44	Warning: 	Link https://demo.gridgum.com/templates/Travel-agency/booking-flights.html not scanned (follow robots meta tag)
+18:15:44	Warning: 	Link https://demo.gridgum.com/templates/Travel-agency/booking-flights-page.html not scanned (follow robots meta tag)
+18:15:51	Warning: 	Link https://demo.gridgum.com/templates/Travel-agency/hotels.html not scanned (follow robots meta tag)
+18:15:51	Warning: 	Link https://demo.gridgum.com/templates/Travel-agency/search-hotel.html not scanned (follow robots meta tag)
+18:15:51	Warning: 	Link https://demo.gridgum.com/templates/Travel-agency/booking-hotel.html not scanned (follow robots meta tag)
+18:15:51	Warning: 	Link https://demo.gridgum.com/templates/Travel-agency/booking-hotel-page.html not scanned (follow robots meta tag)
+18:15:51	Warning: 	Link https://demo.gridgum.com/templates/Travel-agency/cars.html not scanned (follow robots meta tag)
+18:15:51	Warning: 	Link https://demo.gridgum.com/templates/Travel-agency/search-cars.html not scanned (follow robots meta tag)
+18:15:51	Warning: 	Link https://demo.gridgum.com/templates/Travel-agency/booking-cars.html not scanned (follow robots meta tag)
+18:15:51	Warning: 	Link https://demo.gridgum.com/templates/Travel-agency/booking-cars-page.html not scanned (follow robots meta tag)
+18:15:51	Warning: 	Link https://demo.gridgum.com/templates/Travel-agency/cruises.html not scanned (follow robots meta tag)
+18:15:51	Warning: 	Link https://demo.gridgum.com/templates/Travel-agency/search-cruise.html not scanned (follow robots meta tag)
+18:15:51	Warning: 	Link https://demo.gridgum.com/templates/Travel-agency/booking-cruise.html not scanned (follow robots meta tag)
+18:15:51	Warning: 	Link https://demo.gridgum.com/templates/Travel-agency/booking-cruise-page.html not scanned (follow robots meta tag)
+18:15:51	Warning: 	Link https://demo.gridgum.com/templates/Travel-agency/blog.html not scanned (follow robots meta tag)
+18:15:51	Warning: 	Link https://demo.gridgum.com/templates/Travel-agency/left-blog.html not scanned (follow robots meta tag)
+18:15:51	Warning: 	Link https://demo.gridgum.com/templates/Travel-agency/post.html not scanned (follow robots meta tag)
+18:15:51	Warning: 	Link https://demo.gridgum.com/templates/Travel-agency/left-post.html not scanned (follow robots meta tag)
+18:15:51	Warning: 	Link https://demo.gridgum.com/templates/Travel-agency/full-post.html not scanned (follow robots meta tag)
+18:15:51	Warning: 	Link https://demo.gridgum.com/templates/Travel-agency/contacts.html not scanned (follow robots meta tag)
+18:15:52	Error: 	"Not Found" (404) at link https://demo.gridgum.com/templates/Travel-agency/css/smoothness/images/animated-overlay.gif (from https://demo.gridgum.com/templates/Travel-agency/css/smoothness/jquery-ui-1.10.0.custom.css)
+18:18:01	Error: 	"Not Found" (404) at link https://demo.gridgum.com/templates/Travel-agency/index.htmlindex-2.html (from https://demo.gridgum.com/templates/Travel-agency/index-2.html)
+18:18:01	Error: 	"Not Found" (404) at link https://demo.gridgum.com/templates/Travel-agency/index.htmlindex-1.html (from https://demo.gridgum.com/templates/Travel-agency/index-1.html)
+18:18:01	Error: 	"Not Found" (404) at link https://demo.gridgum.com/templates/Travel-agency/index.htmlhotels.html (from https://demo.gridgum.com/templates/Travel-agency/hotels.html)
+
+HTTrack Website Copier/3.49-2 mirror complete in 3 minutes 48 seconds : 178 links scanned, 173 files written (23146067 bytes overall) [23190912 bytes received at 101714 bytes/sec], 14.8 requests per connection
+(4 errors, 24 warnings, 0 messages)
